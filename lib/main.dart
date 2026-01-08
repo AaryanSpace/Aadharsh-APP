@@ -740,3 +740,7 @@ class _CountingScreenState extends State<CountingScreen> {
     );
   }
 }
+
+if (true){
+   print("Hello world")
+}
